@@ -1,0 +1,12 @@
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\bin\Debug\DatabaseAccessComponentTests.dll.config
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\bin\Debug\DatabaseAccessComponentTests.dll
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\bin\Debug\DatabaseAccessComponentTests.pdb
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\bin\Debug\DatabaseAccess.dll
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\bin\Debug\nunit.framework.dll
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\bin\Debug\MySql.Data.dll
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\bin\Debug\DatabaseAccess.pdb
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\bin\Debug\nunit.framework.xml
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\obj\x64\Debug\DatabaseAccessComponentTests.csprojResolveAssemblyReference.cache
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\obj\x64\Debug\DatabaseAccessComponentTests.dll
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\obj\x64\Debug\DatabaseAccessComponentTests.pdb
+D:\AI_Workspace\Aquarius\PlatformSupport\DatabaseAccessComponentTests\bin\Debug\Oracle.ManagedDataAccess.dll

@@ -1,0 +1,3 @@
+#override the repo root level .gitignore, for *.sdf
+!unittest.sdf
+
